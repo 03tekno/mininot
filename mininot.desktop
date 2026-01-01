@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=MiniNote
+Name=MiniNot
 Exec=python3 /opt/mininot/mininot.py
 Type=Application
 Icon=accessories-text-editor
