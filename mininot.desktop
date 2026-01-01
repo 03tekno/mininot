@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=MiniNote
+Exec=python3 /opt/mininot/mininot.py
+Type=Application
+Icon=accessories-text-editor
+Terminal=false
+Categories=Office;TextTools;Dictionary;GTK;

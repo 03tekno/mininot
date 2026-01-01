@@ -1,0 +1,6 @@
+#MiniNot uygulamasını kurmak için:
+
+sudo mkdir /opt/mininot
+sudo cp mininot.py /opt/mininot/mininot.py
+sudo chmod +x /opt/mininot/mininot.py
+sudo cp mininot.desktop /usr/share/applications/mininot.desktop
